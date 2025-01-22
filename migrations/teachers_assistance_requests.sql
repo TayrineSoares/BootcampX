@@ -19,4 +19,3 @@ CREATE TABLE assistance_requests (
 );
 
  -- A student can create many assistance_requests and a teacher can respond to many assistance_requests.
-
